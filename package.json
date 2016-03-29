@@ -1,0 +1,24 @@
+{
+	"name": "fcc-header-parser-microservice",
+	"version": "0.0.1",
+	"description": "FreeCodeCamp: Request Header Parser Microservice",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/plause/fcc-header-parser-microservice.git"
+	},
+	"keywords": [
+		"freecodecamp",
+		"header-parser",
+		"microservice"
+	],
+	"author": "Huazhou Wang <wanghuazhou@powerallnetworks.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/plause/fcc-header-parser-microservice/issues"
+	},
+	"homepage": "https://github.com/plause/fcc-header-parser-microservice#readme"
+}
